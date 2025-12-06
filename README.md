@@ -1,0 +1,1 @@
+requires giflib to compile
